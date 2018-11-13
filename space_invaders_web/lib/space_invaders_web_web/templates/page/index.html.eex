@@ -1,0 +1,7 @@
+<div class="row marketing justify-content-md-center">
+  <button id="start-game">Start Game</button>
+  <button id="reset-game">Reset Game</button>
+  <div class="col-lg-10">
+    <div id="frame"></div>
+  </div>
+</div>
